@@ -11,7 +11,7 @@ The repository consists of five notebooks containing the whole analysis:
 Get started
 ---
 Clone the repository to your local machine using instructions from [here](https://help.github.com/en/articles/cloning-a-repository).
-Download files from Release in the cloned repository.
+Download files from Release in the cloned repository (V1.2).
 
 Anaconda and Python Installation
 ---
