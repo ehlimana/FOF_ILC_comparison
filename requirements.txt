@@ -1,0 +1,17 @@
+ipykernel
+ipywidgets
+h5py
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+PyDynamic
+pip
+jupyter nbextension enable--py widgetsnbextension
+openpyxl
+#conda install -c conda-forge miktex in command prompt
+seaborn as 
+IPython 
+warnings
